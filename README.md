@@ -6,7 +6,7 @@
   * chsh -s $(which zsh)
   * Cerrar sesión y volver a entrar.
 * Instalar Oh My ZSH
-  *sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  * sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Cambiar tema
   
